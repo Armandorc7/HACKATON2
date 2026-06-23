@@ -52,4 +52,5 @@ npm run preview
 
 ## Deploy
 
-Pendiente agregar link del deploy final.
+http://127.0.0.1:5173/login
+
