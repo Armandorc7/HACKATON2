@@ -3,8 +3,7 @@
 Frontend de la hackathon **Pizza Protocol** construido con React, TypeScript, Vite, React Router y Tailwind CSS.
 
 ## Integrantes
-
-- Pendiente completar nombres y codigos del equipo.
+Armando Andres Ruesta Carrion 202410753
 
 ## Requisitos
 
